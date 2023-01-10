@@ -23,7 +23,7 @@ img[alt~="center"] {
 
 
 # **CHEM-4PB3 (2022)**
-![bg left:40% 80%](/Users/ravh011/Documents/MacMaster/Courses/CHEM_4PB3_2022/Course_Notes/Figures/homo_lumo_smile3.gif)
+![bg left:40% 80%](/Users/ravh011/Documents/McMaster/Courses/CHEM_4PB3_2022/Course_Notes/Figures/homo_lumo_smile3.gif)
 
 ```markdown
 # Chemistry + Computer Science
@@ -32,7 +32,7 @@ img[alt~="center"] {
 ---
 
 # Goal
-![bg right:50% 100%](/Users/ravh011/Documents/MacMaster/Courses/CHEM_4PB3_2022/Course_Notes/Figures/twt.png)
+![bg right:50% 100%](/Users/ravh011/Documents/McMaster/Courses/CHEM_4PB3_2022/Course_Notes/Figures/twt.png)
 
 ```markdown
 Do NOT be afraid of coding
@@ -131,13 +131,13 @@ Colab demo that explains and displays the model/data used for the problem of int
 
 ---
 
-![bg center: 80% 80%](/Users/ravh011/Documents/MacMaster/Courses/CHEM_4PB3_2022/Course_Notes/Figures/ChatGPT1.png)
+![bg center: 80% 80%](/Users/ravh011/Documents/McMaster/Courses/CHEM_4PB3_2022/Course_Notes/Figures/ChatGPT1.png)
 
 ---
 
-![bg center: 60% 60%](/Users/ravh011/Documents/MacMaster/Courses/CHEM_4PB3_2022/Course_Notes/Figures/ChatGPT2.png)
+![bg center: 60% 60%](/Users/ravh011/Documents/McMaster/Courses/CHEM_4PB3_2022/Course_Notes/Figures/ChatGPT2.png)
 
 
 ---
 
-![bg center: 10% 10%](/Users/ravh011/Documents/MacMaster/Courses/CHEM_4PB3_2022/Course_Notes/Figures/books.png)
+![bg center: 70% 70%](/Users/ravh011/Documents/McMaster/Courses/CHEM_4PB3_2022/Course_Notes/Figures/books.png)
