@@ -22,13 +22,21 @@ img[alt~="center"] {
 
 
 
-# **CHEM-4PB3 (2022)**
+# **CHEM-4PB3 (2023)**
 ![bg left:40% 80%](/Users/ravh011/Documents/McMaster/Courses/CHEM_4PB3_2022/Course_Notes/Figures/homo_lumo_smile3.gif)
 
 ```markdown
 # Chemistry + Computer Science
 ```
 
+---
+
+# Who am I?
+
+1. Born in Mexico (**I'm Millennial**)
+2. Undergraduate in Theoretical Chemistry
+3. PhD at UBC (Vancouver) ML + Physics (2013-2019)
+4. Postdoc at UofT (2019-2022)
 ---
 
 # Goal
