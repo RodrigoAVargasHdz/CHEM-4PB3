@@ -37,4 +37,5 @@ img[alt~="center"] {
   1. Course_Notes/Week1/intro_numpy.ipynb
 
 # **Week 1 (13/Jan/2023)**
-* Avenue2learn is online!
+* Avenue2learn is online.
+* Teams CHEM-4PB3 channel is online.
