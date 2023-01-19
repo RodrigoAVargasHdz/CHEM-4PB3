@@ -39,3 +39,9 @@ img[alt~="center"] {
 # **Week 1 (13/Jan/2023)**
 * Avenue2learn is online.
 * Teams CHEM-4PB3 channel is online.
+
+# **Week 2 (19/Jan/2023)**
+* Assigment 1 is online. Deadline is Jan 26 before class. (not marks)
+  * file: ```Course_Notes/Weeek2/assigment1.ipynb```
+  
+
