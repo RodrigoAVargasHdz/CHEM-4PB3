@@ -43,5 +43,7 @@ img[alt~="center"] {
 # **Week 2 (19/Jan/2023)**
 * Assigment 1 is online. Deadline is Jan 26 before class. (not marks)
   * file: ```Course_Notes/Weeek2/assigment1.ipynb```
+* (video) [How to learn Python programming | Guido van Rossum and Lex Fridman](https://www.youtube.com/watch?v=F2Mx-u7auUs)
   
+
 
