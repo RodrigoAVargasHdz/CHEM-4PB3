@@ -41,9 +41,11 @@ img[alt~="center"] {
 * Teams CHEM-4PB3 channel is online.
 
 # **Week 2 (19/Jan/2023)**
-* Assigment 1 is online. Deadline is Jan 26 before class. (not marks)
+* Assigment 1 is online. Deadline is Jan 24th 11:59 PM. (not marks)
   * file: ```Course_Notes/Weeek2/assigment1.ipynb```
+  * **deadline**: Tuesday 24th 11:59PM send by email.
 * (video) [How to learn Python programming | Guido van Rossum and Lex Fridman](https://www.youtube.com/watch?v=F2Mx-u7auUs)
   
-
+# **Week 3 (24/Jan/2023)**
+  * [**paper**](https://doi.org/10.1021/acs.jchemed.1c00142)
 
