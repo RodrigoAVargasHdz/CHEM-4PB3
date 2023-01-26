@@ -46,6 +46,6 @@ img[alt~="center"] {
   * **deadline**: Tuesday 24th 11:59PM send by email.
 * (video) [How to learn Python programming | Guido van Rossum and Lex Fridman](https://www.youtube.com/watch?v=F2Mx-u7auUs)
   
-# **Week 3 (24/Jan/2023)**
+# **Week 3 (24-26/Jan/2023)**
   * [**paper**](https://doi.org/10.1021/acs.jchemed.1c00142)
-
+  * [**office hours doodle**](https://forms.gle/ZzpxuHSyKhijiGuH8)
