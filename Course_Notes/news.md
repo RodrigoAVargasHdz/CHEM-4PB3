@@ -49,3 +49,8 @@ img[alt~="center"] {
 # **Week 3 (24-26/Jan/2023)**
   * [**paper**](https://doi.org/10.1021/acs.jchemed.1c00142)
   * [**office hours doodle**](https://forms.gle/ZzpxuHSyKhijiGuH8)
+
+# **Week 4 (31/Jan/2023-2/Feb/2023)**
+Office hours:
+![voting](https://raw.github.com/RodrigoAVargasHdz/CHEM-4PB3/master/Course_Notes/Figures/office_hours_voting.png)
+[(paper) Do not sleep on traditional machine learning: Simple and interpretable techniques are competitive to deep learning for sleep scoring](https://www.sciencedirect.com/science/article/pii/S1746809422008837)
