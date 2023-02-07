@@ -54,3 +54,6 @@ img[alt~="center"] {
 Office hours:
 ![voting](https://raw.github.com/RodrigoAVargasHdz/CHEM-4PB3/master/Course_Notes/Figures/office_hours_voting.png)
 [(paper) Do not sleep on traditional machine learning: Simple and interpretable techniques are competitive to deep learning for sleep scoring](https://www.sciencedirect.com/science/article/pii/S1746809422008837)
+
+# **Week 4 (7/Feb/2023)**
+[kernel for molecules](https://towardsdatascience.com/gaussian-process-regression-on-molecules-in-gpflow-ee6fedab2130)
