@@ -27,7 +27,9 @@ img[alt~="center"] {
 ```markdown
 # Chemistry + Computer Science
 ```
-
+---
+# **Final exam date**: **19/April/2023**,  **9:00-11:30 AM**, location: **ETB 227**
+# **Office hours**: Mondays and Wednesdays 1:30-2:30PM (**ABB 266**)
 ---
 
 # **Week 1 (10-12/Jan/2023)**
