@@ -59,3 +59,6 @@ Office hours:
 
 # **Week 5 (7-9/Feb/2023)**
 [kernel for molecules](https://towardsdatascience.com/gaussian-process-regression-on-molecules-in-gpflow-ee6fedab2130)
+
+(**NEW TUTORIAL!!**)
+[GPyTorch for molecules example](https://raw.github.com/RodrigoAVargasHdz/CHEM-4PB3/master/Course_Notes/Week5/gpytorch_molecules.ipynb)
