@@ -63,3 +63,4 @@ Office hours:
 (**NEW TUTORIAL!!**)
 [GPyTorch for molecules example](Week5/gpytorch_molecules.ipynb)
 <!-- [GPyTorch for molecules example](https://raw.github.com/RodrigoAVargasHdz/CHEM-4PB3/master/Course_Notes/Week5/gpytorch_molecules.ipynb) -->
+[ChatGPT vs Stockfish](https://twitter.com/JoINrbs/status/1624351822621315072?s=20&t=yryE67kXEH7PkmXtdD1mNw)
