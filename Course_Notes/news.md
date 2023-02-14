@@ -66,5 +66,5 @@ Office hours:
 [ChatGPT vs Stockfish (YouTube)](https://www.youtube.com/watch?v=rSCNW1OCk_M)
 
 # **Week 5 (14-16/Feb/2023)**
-[Kernel function for molecule](https://colab.research.google.com/github/RodrigoAVargasHdz/CHEM-4PB3/blob/main/Course_Notes/Week5/gpytorch_molecules.ipynb)
+[Kernel function for molecule](https://colab.research.google.com/github/RodrigoAVargasHdz/CHEM-4PB3/blob/main/Course_Notes/Week5/gpytorch_molecules.ipynb)\
 [Tanimoto Kernel function](https://colab.research.google.com/github/RodrigoAVargasHdz/CHEM-4PB3/blob/main/Course_Notes/Week5/TanimotoKernel.ipynb)
