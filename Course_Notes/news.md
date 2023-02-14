@@ -64,3 +64,7 @@ Office hours:
 <!-- [GPyTorch for molecules example](https://raw.github.com/RodrigoAVargasHdz/CHEM-4PB3/master/Course_Notes/Week5/gpytorch_molecules.ipynb) -->
 [ChatGPT vs Stockfish](https://twitter.com/JoINrbs/status/1624351822621315072?s=20&t=yryE67kXEH7PkmXtdD1mNw)\
 [ChatGPT vs Stockfish (YouTube)](https://www.youtube.com/watch?v=rSCNW1OCk_M)
+
+# **Week 5 (14-16/Feb/2023)**
+[Kernel function for molecule](https://colab.research.google.com/github/RodrigoAVargasHdz/CHEM-4PB3/blob/main/Course_Notes/Week5/gpytorch_molecules.ipynb)
+[Tanimoto Kernel function](https://colab.research.google.com/github/RodrigoAVargasHdz/CHEM-4PB3/blob/main/Course_Notes/Week5/TanimotoKernel.ipynb)
