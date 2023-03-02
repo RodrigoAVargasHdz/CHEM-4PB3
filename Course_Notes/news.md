@@ -68,3 +68,9 @@ Office hours:
 # **Week 5 (14-16/Feb/2023)**
 [Kernel function for molecule](https://colab.research.google.com/github/RodrigoAVargasHdz/CHEM-4PB3/blob/main/Course_Notes/Week5/gpytorch_molecules.ipynb)\
 [Tanimoto Kernel function](https://colab.research.google.com/github/RodrigoAVargasHdz/CHEM-4PB3/blob/main/Course_Notes/Week5/TanimotoKernel.ipynb)
+
+
+# **Week 6 (28/Feb/2023 - 02/March/2023)**
+Introduction to neural networks.\
+* [Linear models in torch](https://colab.research.google.com/github/RodrigoAVargasHdz/CHEM-4PB3/blob/main/Course_Notes/Week7/grad_torch.ipynb)\
+* [MLP in torch](https://colab.research.google.com/github/RodrigoAVargasHdz/CHEM-4PB3/blob/main/Course_Notes/Week7/intro_MLP.ipynb)
