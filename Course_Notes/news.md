@@ -70,7 +70,6 @@ Office hours:
 [Tanimoto Kernel function](https://colab.research.google.com/github/RodrigoAVargasHdz/CHEM-4PB3/blob/main/Course_Notes/Week5/TanimotoKernel.ipynb)
 
 
-# **Week 6 (28/Feb/2023 - 02/March/2023)**
-Introduction to neural networks.\
-* [Linear models in torch](https://colab.research.google.com/github/RodrigoAVargasHdz/CHEM-4PB3/blob/main/Course_Notes/Week7/grad_torch.ipynb)\
-* [MLP in torch](https://colab.research.google.com/github/RodrigoAVargasHdz/CHEM-4PB3/blob/main/Course_Notes/Week7/intro_MLP.ipynb)
+# **Week 8 (07-10/March/2023 )**
+[Bayesian optimization explains human active search](https://papers.nips.cc/paper/2013/file/a3f390d88e4c41f2747bfa2f1b5f87db-Paper.pdf)\
+[Bayesian Optimization for Neural Architecture Search](https://medium.com/abacus-ai/an-introduction-to-bayesian-optimization-for-neural-architecture-search-d324830ec781)
