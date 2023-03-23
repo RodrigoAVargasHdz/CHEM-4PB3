@@ -73,3 +73,6 @@ Office hours:
 # **Week 8 (07-10/March/2023 )**
 [Bayesian optimization explains human active search](https://papers.nips.cc/paper/2013/file/a3f390d88e4c41f2747bfa2f1b5f87db-Paper.pdf)\
 [Bayesian Optimization for Neural Architecture Search](https://medium.com/abacus-ai/an-introduction-to-bayesian-optimization-for-neural-architecture-search-d324830ec781)
+
+# **Week 10 (21-24/March/2023 )**
+[Tutorial on GNN for drug discovery](https://colab.research.google.com/drive/1az5ot0M6cvj-l62GqWVSgNMD4JaGLZtl?usp=share_link)
