@@ -17,7 +17,6 @@ This repository contains all the relevant files relevant for CHEM 4PB3 course (2
 Image from [Tropsha. A, et. al](https://www.nature.com/articles/s41573-023-00832-0).
 
 <br>
-<br>
 
 > **_Course Professor:_**  [Dr. Rodrigo A. Vargas-Hernandez, PhD](https://www.linkedin.com/in/rodrigo-a-vargas-hernandez-591368141/?originalSubdomain=ca). <br>
 
