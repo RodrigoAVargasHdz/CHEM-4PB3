@@ -1,7 +1,3 @@
-# Computational tools for Chemistry 
-
-This repository contains all the relevant files relevant for CHEM 4PB3 course 2022.
-
 <h1 align="center">
   CHEM 4PB3 - Computational Tools for Chemistry 
 </h1>
