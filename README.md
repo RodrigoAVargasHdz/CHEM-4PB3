@@ -7,10 +7,10 @@ This repository contains all the relevant files relevant for CHEM 4PB3 course (2
 
 
 
-<a href="https://github.com/janosh/tikz/tree/main/assets/normalizing-flow](https://github.com/RodrigoAVargasHdz/CHEM-4PB3">
+<a href="https://www.nature.com/articles/s41573-023-00832-0">
    <picture>
       <source media="(prefers-color-scheme: dark)"">
-      <img alt=" Visualization of Molecular structures using Python" src="https://iwatobipen.files.wordpress.com/2023/09/image.png">
+      <img alt=" Contrasting traditional and deep QSAR models" src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41573-023-00832-0/MediaObjects/41573_2023_832_Fig1_HTML.png?as=webp">
    </picture>
 </a>
 
