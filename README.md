@@ -13,6 +13,7 @@ This repository contains all the relevant files relevant for CHEM 4PB3 course (2
       <img alt=" Contrasting traditional and deep QSAR models" src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41573-023-00832-0/MediaObjects/41573_2023_832_Fig1_HTML.png?as=webp">
    </picture>
 </a>
+
 Image from [Tropsha. A, et. al](https://www.nature.com/articles/s41573-023-00832-0).
 
 <br>
