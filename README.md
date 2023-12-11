@@ -22,7 +22,7 @@ This repository contains all the relevant files relevant for CHEM 4PB3 course (2
 ## 📚 Table of Contents
 1. [🖥️ Week 1 - Introduction to NumPy](#-week-1---introduction-to-numpy)
 1. [⚗️ Week 2 - Introduction to Linear Algebra & Matplotlib](#-week-2---introduction-to-linear-algebra-&-matplotlib)
-1. [🖲️ Week 3 - IIntroduction to Linear Kinetic Models](#-week-3---introduction-to-linear-kinetic-models)
+1. [🖲️ Week 3 - Introduction to Linear Kinetic Models](#-week-3---introduction-to-linear-kinetic-models)
 
 
 ## 🖥️ Week 1 - Introduction to NumPy
