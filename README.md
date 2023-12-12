@@ -66,7 +66,7 @@ Image from [Tropsha. A, et. al](https://www.nature.com/articles/s41573-023-00832
 ## 💡 Week 4 - Introduction to Probabilistic Regression
 
 - [Introduction to Probabilistic Regression](https://colab.research.google.com/drive/1vTbbnTw0o4nD8DLr0NB_5jDmTQ4s31lf?usp=sharing) <br>
-<details>
+  <details>
   <summary>Summary</summary>
   Includes: Introduction to Probabilistic Regression, Bayes' Theorem to Regression, Gaussian Processes, and Potential Energy Surfaces (PES).
 </details>
