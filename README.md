@@ -24,6 +24,7 @@ Image from [Tropsha. A, et. al](https://www.nature.com/articles/s41573-023-00832
 1. [🖥️ Week 1 - Introduction to NumPy](#-week-1---introduction-to-numpy)
 1. [⚗️ Week 2 - Introduction to Linear Algebra & Matplotlib](#-week-2---introduction-to-linear-algebra-&-matplotlib)
 1. [🖲️ Week 3 - Introduction to Linear Kinetic Models](#-week-3---introduction-to-linear-kinetic-models)
+1. [💡 Week 4 - Introduction to Probabilistic Regression](#-week-4---introduction-to-probabilistic-regression)
 
 
 ## 🖥️ Week 1 - Introduction to NumPy
@@ -62,5 +63,12 @@ Image from [Tropsha. A, et. al](https://www.nature.com/articles/s41573-023-00832
   Includes: Introduction to Parameter Generation, Animations on Google Colab, Linear and Polynomial Models, Overfitting and Underfitting and understanding Lambda and Regularization.
 </details>
 
+## 💡 Week 4 - Introduction to Probabilistic Regression
+
+- [Introduction to Probabilistic Regression](https://colab.research.google.com/drive/1vTbbnTw0o4nD8DLr0NB_5jDmTQ4s31lf?usp=sharing) <br>
+<details>
+  <summary>Summary</summary>
+  Includes: Introduction to Probabilistic Regression, Bayes' Theorem to Regression, Gaussian Processes, and Potential Energy Surfaces (PES).
+</details>
 
 
