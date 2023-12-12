@@ -25,6 +25,7 @@ Image from [Tropsha. A, et. al](https://www.nature.com/articles/s41573-023-00832
 1. [⚗️ Week 2 - Introduction to Linear Algebra & Matplotlib](#-week-2---introduction-to-linear-algebra-&-matplotlib)
 1. [🖲️ Week 3 - Introduction to Linear Kinetic Models](#-week-3---introduction-to-linear-kinetic-models)
 1. [💡 Week 4 - Introduction to Probabilistic Regression](#-week-4---introduction-to-probabilistic-regression)
+1. [🧪 Week 5 - Introduction to Gaussian Processes](#-week-5---introduction-to-gaussian-processes)
 
 
 ## 🖥️ Week 1 - Introduction to NumPy
@@ -71,4 +72,10 @@ Image from [Tropsha. A, et. al](https://www.nature.com/articles/s41573-023-00832
   Includes: Introduction to Probabilistic Regression, Bayes' Theorem to Regression, Gaussian Processes, and Potential Energy Surfaces (PES).
 </details>
 
+## 🧪 Week 5 - Introduction to Gaussian Processes
+- [Introduction to Gaussian Processes](https://colab.research.google.com/drive/1tVHpVjgeWqm0b2PnuTDApty09xuVNXza?usp=sharing) <br>
+  <details>
+  <summary>Summary</summary>
+  Includes: Introduction to Kernels, understanding Gaussian Processes in Regression, and Fitting the Gaussian Processes to N-N.
+</details>
 
