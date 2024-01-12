@@ -21,16 +21,17 @@ Image from [Tropsha. A, et. al](https://www.nature.com/articles/s41573-023-00832
 > **_Course Professor:_**  [Dr. Rodrigo A. Vargas-Hernandez, PhD](https://www.linkedin.com/in/rodrigo-a-vargas-hernandez-591368141/?originalSubdomain=ca). <br>
 
 ## 📚 Table of Contents
-1. [🖥️ Week 1 - Introduction to NumPy](#-week-1---introduction-to-numpy)
-1. [⚗️ Week 2 - Introduction to Linear Algebra & Matplotlib](#-week-2---introduction-to-linear-algebra-&-matplotlib)
-1. [🖲️ Week 3 - Introduction to Linear Kinetic Models](#-week-3---introduction-to-linear-kinetic-models)
-1. [💡 Week 4 - Introduction to Probabilistic Regression](#-week-4---introduction-to-probabilistic-regression)
-1. [🧪 Week 5 - Introduction to Gaussian Processes](#-week-5---introduction-to-gaussian-processes)
+- [📚 Table of Contents](#-table-of-contents)
+- [🖥️ Week 1 - Introduction to NumPy](#️-week-1---introduction-to-numpy)
+- [⚗️ Week 2 - Introduction to Linear Algebra \& Matplotlib](#️-week-2---introduction-to-linear-algebra--matplotlib)
+- [🖲️ Week 3 - Introduction to Linear Kinetic Models](#️-week-3---introduction-to-linear-kinetic-models)
+- [💡 Week 4 - Introduction to Probabilistic Regression](#-week-4---introduction-to-probabilistic-regression)
+- [🧪 Week 5 - Introduction to Gaussian Processes](#-week-5---introduction-to-gaussian-processes)
 
 
 ## 🖥️ Week 1 - Introduction to NumPy
 
-- [Introduction to NumPy](https://colab.research.google.com/drive/14xmNNrXwtj65L2tsRaEXBHVPz1vasKsV?usp=sharing) <br>
+- [Introduction to NumPy](https://colab.research.google.com/github/RodrigoAVargasHdz/CHEM-4PB3/blob/w2024/Course_Notes/Week%201/Week_1_Introduction_To_NumPy.ipynb) <br>
   <details>
   <summary>Summary</summary>
   Includes: Introduction to Arrays and NumPy, Slicing and Accessing Elements in Arrays, and Tensors in Image Analysis
