@@ -6,3 +6,5 @@
    [ACS Cent. Sci. 2018, 4, 2, 268–276](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572)'
 3. Molecular generative model based on conditional variational autoencoder for de novo molecular design.
     [J Cheminform 10, 31 (2018). ](https://doi.org/10.1186/s13321-018-0286-7)
+4. Efficient hyperparameter tuning for kernel ridge regression with Bayesian optimization.
+   [Mach. Learn.: Sci. Technol. 2 035022 (2021).](https://iopscience.iop.org/article/10.1088/2632-2153/abee59)
