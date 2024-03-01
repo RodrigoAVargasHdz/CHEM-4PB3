@@ -80,3 +80,10 @@ Image from [Tropsha. A, et. al](https://www.nature.com/articles/s41573-023-00832
   Includes: Introduction to Kernels, understanding Gaussian Processes in Regression, and Fitting the Gaussian Processes to N-N.
 </details>
 
+- [Introduction to Cross Validation](https://colab.research.google.com/github/RodrigoAVargasHdz/CHEM-4PB3/blob/w2024/Course_Notes/Week%205/intro_cross_validation.ipynb) <br>
+  <details>
+  <summary>Summary</summary>
+  Includes: Introduction to Cross Validation, using CO2 data from SciKit Learn. 
+</details>
+
+
