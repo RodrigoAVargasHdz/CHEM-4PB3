@@ -87,3 +87,30 @@ Image from [Tropsha. A, et. al](https://www.nature.com/articles/s41573-023-00832
 </details>
 
 
+# Final Project #
+## Final presentation ##
+| Dates      | Room | Speakers    |
+| :---       |    :----:   |          ---: |
+| April 10th | ETB 228       |   |
+| April 13th | BSB 115       |      |
+
+**Time limit:** <br>
+Total 25 minutes: <br>
+* 15-20 min: present your work <br>
+* 5-7 min: go-through a working demo using your (part) code <br>
+* 5 min: questions (part of your mark!) <br>
+
+**DEADLINE for the final report and other files**: Aril 25th. 
+
+## Final report ##
+The report must be submitted in a PDF format.
+
+1. Section I: Introduction, literature review and problem statement **(1.5 pages)**
+2. Section II: Hypothesis **(0.5 pages)**
+3. Section III: Describe the model/data or chemical system **(1 page)**
+4. Section IV: Results **(2.5 pages)**
+5. Section V: Summary **(1 page)**
+6. Section V: Future work **(0.5 pages)**
+7. Section VIII: References **(not included in the page limit)**
+
+
